@@ -1,0 +1,418 @@
+{
+    "Class_A00": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72361\n           1       0.00      0.00      0.00         4\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4998618040104476
+    ],
+    "Class_A01": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72348\n           1       0.00      0.00      0.00        17\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49912229778293804
+    ],
+    "Class_A02": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      0.99     72194\n           1       0.01      0.03      0.01       171\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.51      0.50     72365\nweighted avg       1.00      0.98      0.99     72365\n",
+        0.5078533927508838
+    ],
+    "Class_A03": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72321\n           1       0.00      0.00      0.00        44\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49841678074141677
+    ],
+    "Class_A04": [
+        "              precision    recall  f1-score   support\n\n           0       0.98      0.89      0.93     70656\n           1       0.03      0.12      0.04      1709\n\n    accuracy                           0.87     72365\n   macro avg       0.50      0.51      0.49     72365\nweighted avg       0.95      0.87      0.91     72365\n",
+        0.5053154006774133
+    ],
+    "Class_A05": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72279\n           1       0.00      0.00      0.00        86\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.49701849776560275
+    ],
+    "Class_A06": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72346\n           1       0.00      0.00      0.00        19\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49914300721532634
+    ],
+    "Class_A07": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      0.99     72239\n           1       0.00      0.01      0.00       126\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      0.99     72365\n",
+        0.4994139273579742
+    ],
+    "Class_A08": [
+        "              precision    recall  f1-score   support\n\n           0       0.98      0.92      0.95     71203\n           1       0.02      0.08      0.03      1162\n\n    accuracy                           0.90     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.97      0.90      0.93     72365\n",
+        0.5001249669347365
+    ],
+    "Class_A09": [
+        "              precision    recall  f1-score   support\n\n           0       0.92      0.77      0.84     66894\n           1       0.08      0.23      0.11      5471\n\n    accuracy                           0.73     72365\n   macro avg       0.50      0.50      0.48     72365\nweighted avg       0.86      0.73      0.79     72365\n",
+        0.5011941526697926
+    ],
+    "Class_A15": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.96      0.98     71834\n           1       0.01      0.04      0.01       531\n\n    accuracy                           0.95     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.99      0.95      0.97     72365\n",
+        0.49966514920070737
+    ],
+    "Class_A16": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      0.99     72244\n           1       0.00      0.00      0.00       121\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.49      0.50     72365\nweighted avg       1.00      0.99      0.99     72365\n",
+        0.49474004761641105
+    ],
+    "Class_A17": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72362\n           1       0.00      0.00      0.00         3\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4998825350321992
+    ],
+    "Class_A18": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72332\n           1       0.00      0.00      0.00        33\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4992050544710502
+    ],
+    "Class_A19": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72362\n           1       0.00      0.00      0.00         3\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4999032641441641
+    ],
+    "Class_D50": [
+        "              precision    recall  f1-score   support\n\n           0       0.91      0.75      0.82     65825\n           1       0.09      0.24      0.13      6540\n\n    accuracy                           0.71     72365\n   macro avg       0.50      0.50      0.48     72365\nweighted avg       0.83      0.71      0.76     72365\n",
+        0.4968209714154968
+    ],
+    "Class_D51": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.94      0.97     71586\n           1       0.01      0.06      0.02       779\n\n    accuracy                           0.94     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.98      0.94      0.96     72365\n",
+        0.5025218103510389
+    ],
+    "Class_D52": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72145\n           1       0.00      0.01      0.00       220\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.98      0.99     72365\n",
+        0.4953348370390438
+    ],
+    "Class_D53": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72301\n           1       0.00      0.00      0.00        64\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.4978838466964496
+    ],
+    "Class_D55": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72361\n           1       0.00      0.00      0.00         4\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4999378118047014
+    ],
+    "Class_D56": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72328\n           1       0.00      0.00      0.00        37\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.498264849021126
+    ],
+    "Class_D57": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72357\n           1       0.00      0.00      0.00         8\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4996061196567022
+    ],
+    "Class_D58": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72302\n           1       0.00      0.00      0.00        63\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4984094492545158
+    ],
+    "Class_D59": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72290\n           1       0.00      0.01      0.00        75\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.503339788813575
+    ],
+    "Class_D60": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72360\n           1       0.00      0.00      0.00         5\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.499965450525152
+    ],
+    "Class_D61": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.97      0.98     72022\n           1       0.01      0.05      0.01       343\n\n    accuracy                           0.97     72365\n   macro avg       0.50      0.51      0.50     72365\nweighted avg       0.99      0.97      0.98     72365\n",
+        0.5115699381781061
+    ],
+    "Class_D62": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72279\n           1       0.00      0.01      0.00        86\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      0.99     72365\n",
+        0.501884734766475
+    ],
+    "Class_D63": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.97      0.98     71947\n           1       0.01      0.04      0.01       418\n\n    accuracy                           0.96     72365\n   macro avg       0.50      0.51      0.50     72365\nweighted avg       0.99      0.96      0.98     72365\n",
+        0.5059571363104007
+    ],
+    "Class_D64": [
+        "              precision    recall  f1-score   support\n\n           0       0.91      0.74      0.82     65497\n           1       0.10      0.26      0.14      6868\n\n    accuracy                           0.70     72365\n   macro avg       0.50      0.50      0.48     72365\nweighted avg       0.83      0.70      0.75     72365\n",
+        0.5004815282767489
+    ],
+    "Class_D65": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72341\n           1       0.00      0.00      0.00        24\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49923280021011596
+    ],
+    "Class_D66": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72336\n           1       0.00      0.00      0.00        29\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49897008405220084
+    ],
+    "Class_E01": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72351\n           1       0.00      0.00      0.00        14\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49898411908612184
+    ],
+    "Class_E02": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72311\n           1       0.00      0.00      0.00        54\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4982506119400921
+    ],
+    "Class_E03": [
+        "              precision    recall  f1-score   support\n\n           0       0.89      0.73      0.80     64350\n           1       0.12      0.28      0.17      8015\n\n    accuracy                           0.68     72365\n   macro avg       0.50      0.51      0.48     72365\nweighted avg       0.81      0.68      0.73     72365\n",
+        0.5080377313128405
+    ],
+    "Class_E04": [
+        "              precision    recall  f1-score   support\n\n           0       0.98      0.92      0.95     71228\n           1       0.02      0.08      0.03      1137\n\n    accuracy                           0.91     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.97      0.91      0.94     72365\n",
+        0.503500607189597
+    ],
+    "Class_E05": [
+        "              precision    recall  f1-score   support\n\n           0       0.98      0.89      0.93     70631\n           1       0.03      0.13      0.05      1734\n\n    accuracy                           0.87     72365\n   macro avg       0.50      0.51      0.49     72365\nweighted avg       0.95      0.87      0.91     72365\n",
+        0.5087515199329322
+    ],
+    "Class_E06": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72044\n           1       0.00      0.02      0.01       321\n\n    accuracy                           0.97     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.97      0.98     72365\n",
+        0.49867478873675497
+    ],
+    "Class_E07": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.95      0.97     71719\n           1       0.01      0.04      0.01       646\n\n    accuracy                           0.94     72365\n   macro avg       0.50      0.49      0.49     72365\nweighted avg       0.98      0.94      0.96     72365\n",
+        0.4934777593684882
+    ],
+    "Class_E10": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.93      0.96     71356\n           1       0.02      0.10      0.03      1009\n\n    accuracy                           0.92     72365\n   macro avg       0.50      0.52      0.50     72365\nweighted avg       0.97      0.92      0.95     72365\n",
+        0.517343397899203
+    ],
+    "Class_E11": [
+        "              precision    recall  f1-score   support\n\n           0       0.89      0.73      0.80     63701\n           1       0.15      0.34      0.21      8664\n\n    accuracy                           0.68     72365\n   macro avg       0.52      0.54      0.50     72365\nweighted avg       0.80      0.68      0.73     72365\n",
+        0.5364721022222023
+    ],
+    "Class_E12": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72361\n           1       0.00      0.00      0.00         4\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.5
+    ],
+    "Class_E13": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      0.99     72245\n           1       0.01      0.04      0.01       120\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.52      0.50     72365\nweighted avg       1.00      0.99      0.99     72365\n",
+        0.5166185087780009
+    ],
+    "Class_E14": [
+        "              precision    recall  f1-score   support\n\n           0       0.94      0.80      0.86     67583\n           1       0.09      0.28      0.13      4782\n\n    accuracy                           0.76     72365\n   macro avg       0.51      0.54      0.50     72365\nweighted avg       0.88      0.76      0.81     72365\n",
+        0.535570216916785
+    ],
+    "Class_E15": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72356\n           1       0.00      0.00      0.00         9\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49992398695339707
+    ],
+    "Class_E16": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.93      0.96     71366\n           1       0.02      0.08      0.03       999\n\n    accuracy                           0.92     72365\n   macro avg       0.50      0.51      0.49     72365\nweighted avg       0.97      0.92      0.94     72365\n",
+        0.5051424697684821
+    ],
+    "Class_E20": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72311\n           1       0.00      0.00      0.00        54\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.49760064167277457
+    ],
+    "Class_F01": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.96      0.98     71886\n           1       0.01      0.05      0.02       479\n\n    accuracy                           0.96     72365\n   macro avg       0.50      0.51      0.50     72365\nweighted avg       0.99      0.96      0.97     72365\n",
+        0.5062232465379393
+    ],
+    "Class_F02": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72128\n           1       0.00      0.02      0.00       237\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.98      0.98     72365\n",
+        0.4981376872433068
+    ],
+    "Class_F03": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.92      0.95     71257\n           1       0.02      0.10      0.03      1108\n\n    accuracy                           0.91     72365\n   macro avg       0.50      0.51      0.49     72365\nweighted avg       0.97      0.91      0.94     72365\n",
+        0.5116567558452297
+    ],
+    "Class_F04": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72361\n           1       0.00      0.00      0.00         4\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4998963530078357
+    ],
+    "Class_F05": [
+        "              precision    recall  f1-score   support\n\n           0       0.97      0.88      0.93     70471\n           1       0.03      0.13      0.05      1894\n\n    accuracy                           0.86     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.95      0.86      0.90     72365\n",
+        0.5038042377314075
+    ],
+    "Class_F06": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.97      0.98     72001\n           1       0.00      0.02      0.01       364\n\n    accuracy                           0.97     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.97      0.98     72365\n",
+        0.49755864196635846
+    ],
+    "Class_F07": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72290\n           1       0.00      0.00      0.00        75\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4982362705768433
+    ],
+    "Class_F09": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72265\n           1       0.00      0.00      0.00       100\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      0.99     72365\n",
+        0.49598007334117483
+    ],
+    "Class_F10": [
+        "              precision    recall  f1-score   support\n\n           0       0.96      0.85      0.90     69642\n           1       0.04      0.16      0.06      2723\n\n    accuracy                           0.83     72365\n   macro avg       0.50      0.50      0.48     72365\nweighted avg       0.93      0.83      0.87     72365\n",
+        0.504537481196921
+    ],
+    "Class_F11": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72308\n           1       0.00      0.02      0.00        57\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.51      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.5062410895302648
+    ],
+    "Class_F12": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72297\n           1       0.00      0.00      0.00        68\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.4968670899207436
+    ],
+    "Class_F13": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72311\n           1       0.00      0.00      0.00        54\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.4975937270954627
+    ],
+    "Class_F14": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72352\n           1       0.00      0.00      0.00        13\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49968210968597965
+    ],
+    "Class_F15": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72348\n           1       0.00      0.00      0.00        17\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4992190523580472
+    ],
+    "Class_F16": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72359\n           1       0.00      0.00      0.00         6\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4997996102765378
+    ],
+    "Class_F17": [
+        "              precision    recall  f1-score   support\n\n           0       0.87      0.71      0.78     63313\n           1       0.12      0.29      0.17      9052\n\n    accuracy                           0.66     72365\n   macro avg       0.50      0.50      0.48     72365\nweighted avg       0.78      0.66      0.71     72365\n",
+        0.49936988020413753
+    ],
+    "Class_G00": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72317\n           1       0.00      0.00      0.00        48\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49809173500006915
+    ],
+    "Class_G01": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72351\n           1       0.00      0.00      0.00        14\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4995577117109646
+    ],
+    "Class_G02": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72349\n           1       0.00      0.00      0.00        16\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49938492584555416
+    ],
+    "Class_G03": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.96      0.98     71867\n           1       0.01      0.05      0.01       498\n\n    accuracy                           0.95     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.99      0.95      0.97     72365\n",
+        0.5031040577353872
+    ],
+    "Class_G04": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72204\n           1       0.00      0.01      0.00       161\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.98      0.99     72365\n",
+        0.4953982608282743
+    ],
+    "Class_G05": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72331\n           1       0.00      0.00      0.00        34\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4984723009498002
+    ],
+    "Class_G06": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72296\n           1       0.00      0.00      0.00        69\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      1.00     72365\n",
+        0.4967218103352883
+    ],
+    "Class_G07": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72364\n           1       0.00      0.00      0.00         1\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49998618097396497
+    ],
+    "Class_G08": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72332\n           1       0.00      0.00      0.00        33\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4991566664823315
+    ],
+    "Class_G09": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72341\n           1       0.00      0.00      0.00        24\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49915677140210946
+    ],
+    "Class_G10": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72350\n           1       0.00      0.00      0.00        15\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49961299239806495
+    ],
+    "Class_G11": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      1.00     72276\n           1       0.00      0.01      0.00        89\n\n    accuracy                           0.99     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.99      0.99     72365\n",
+        0.5024080599897646
+    ],
+    "Class_G12": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      0.99     72193\n           1       0.00      0.02      0.00       172\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.98      0.99     72365\n",
+        0.5014972381848527
+    ],
+    "Class_G13": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72359\n           1       0.00      0.00      0.00         6\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4998134302574662
+    ],
+    "Class_G14": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72346\n           1       0.00      0.00      0.00        19\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49937798910789816
+    ],
+    "Class_G20": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.93      0.96     71445\n           1       0.01      0.07      0.02       920\n\n    accuracy                           0.92     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.97      0.92      0.95     72365\n",
+        0.5011411560123781
+    ],
+    "Class_I00": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.97      0.98     72027\n           1       0.00      0.01      0.00       338\n\n    accuracy                           0.97     72365\n   macro avg       0.50      0.49      0.49     72365\nweighted avg       0.99      0.97      0.98     72365\n",
+        0.49077632623466394
+    ],
+    "Class_I01": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72357\n           1       0.00      0.00      0.00         8\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.49973050292300675
+    ],
+    "Class_I02": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72361\n           1       0.00      0.00      0.00         4\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4998065256146267
+    ],
+    "Class_I05": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72194\n           1       0.00      0.02      0.01       171\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      0.98      0.99     72365\n",
+        0.5028793842840935
+    ],
+    "Class_I06": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72339\n           1       0.00      0.00      0.00        26\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4993226337107231
+    ],
+    "Class_I07": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.97      0.98     71917\n           1       0.00      0.02      0.01       448\n\n    accuracy                           0.96     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.99      0.96      0.97     72365\n",
+        0.4956047888289874
+    ],
+    "Class_I08": [
+        "              precision    recall  f1-score   support\n\n           0       0.97      0.88      0.93     70482\n           1       0.03      0.13      0.05      1883\n\n    accuracy                           0.86     72365\n   macro avg       0.50      0.51      0.49     72365\nweighted avg       0.95      0.86      0.90     72365\n",
+        0.5062403099706304
+    ],
+    "Class_I09": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72348\n           1       0.00      0.00      0.00        17\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4989426107148781
+    ],
+    "Class_I11": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72152\n           1       0.00      0.02      0.01       213\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.98      0.99     72365\n",
+        0.5025966634340544
+    ],
+    "Class_I12": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.97      0.98     71931\n           1       0.01      0.04      0.01       434\n\n    accuracy                           0.96     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.96      0.97     72365\n",
+        0.5031597901650116
+    ],
+    "Class_I13": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      1.00      1.00     72332\n           1       0.00      0.00      0.00        33\n\n    accuracy                           1.00     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       1.00      1.00      1.00     72365\n",
+        0.4987211745838633
+    ],
+    "Class_I20": [
+        "              precision    recall  f1-score   support\n\n           0       0.90      0.74      0.81     64708\n           1       0.12      0.30      0.17      7657\n\n    accuracy                           0.69     72365\n   macro avg       0.51      0.52      0.49     72365\nweighted avg       0.82      0.69      0.74     72365\n",
+        0.5170101264588103
+    ],
+    "Class_I21": [
+        "              precision    recall  f1-score   support\n\n           0       0.93      0.79      0.86     67286\n           1       0.08      0.26      0.13      5079\n\n    accuracy                           0.75     72365\n   macro avg       0.51      0.52      0.49     72365\nweighted avg       0.87      0.75      0.81     72365\n",
+        0.5236249512554066
+    ],
+    "Class_I22": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.99      0.99     72156\n           1       0.01      0.03      0.01       209\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.51      0.50     72365\nweighted avg       0.99      0.98      0.99     72365\n",
+        0.5075147189064841
+    ],
+    "Class_I50": [
+        "              precision    recall  f1-score   support\n\n           0       0.95      0.81      0.88     68097\n           1       0.09      0.30      0.14      4268\n\n    accuracy                           0.78     72365\n   macro avg       0.52      0.56      0.51     72365\nweighted avg       0.90      0.78      0.83     72365\n",
+        0.5584884658370683
+    ],
+    "Class_I25": [
+        "              precision    recall  f1-score   support\n\n           0       0.84      0.69      0.76     60462\n           1       0.18      0.35      0.24     11903\n\n    accuracy                           0.63     72365\n   macro avg       0.51      0.52      0.50     72365\nweighted avg       0.73      0.63      0.67     72365\n",
+        0.5175837543257782
+    ],
+    "Class_I48": [
+        "              precision    recall  f1-score   support\n\n           0       0.88      0.72      0.79     63450\n           1       0.14      0.32      0.20      8915\n\n    accuracy                           0.67     72365\n   macro avg       0.51      0.52      0.50     72365\nweighted avg       0.79      0.67      0.72     72365\n",
+        0.5233903025111961
+    ],
+    "Class_I63": [
+        "              precision    recall  f1-score   support\n\n           0       0.95      0.82      0.88     68741\n           1       0.05      0.19      0.08      3624\n\n    accuracy                           0.79     72365\n   macro avg       0.50      0.51      0.48     72365\nweighted avg       0.91      0.79      0.84     72365\n",
+        0.5050768636844709
+    ],
+    "Class_I10": [
+        "              precision    recall  f1-score   support\n\n           0       0.47      0.50      0.48     31784\n           1       0.58      0.55      0.57     40581\n\n    accuracy                           0.53     72365\n   macro avg       0.53      0.53      0.52     72365\nweighted avg       0.53      0.53      0.53     72365\n",
+        0.5256513976084337
+    ],
+    "Class_F00": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.94      0.96     71412\n           1       0.02      0.10      0.03       953\n\n    accuracy                           0.93     72365\n   macro avg       0.50      0.52      0.50     72365\nweighted avg       0.97      0.93      0.95     72365\n",
+        0.5188954225627984
+    ],
+    "Class_F20": [
+        "              precision    recall  f1-score   support\n\n           0       1.00      0.98      0.99     72130\n           1       0.00      0.02      0.01       235\n\n    accuracy                           0.98     72365\n   macro avg       0.50      0.50      0.50     72365\nweighted avg       0.99      0.98      0.98     72365\n",
+        0.5004622268893929
+    ],
+    "Class_C50": [
+        "              precision    recall  f1-score   support\n\n           0       0.95      0.82      0.88     68527\n           1       0.06      0.22      0.10      3838\n\n    accuracy                           0.79     72365\n   macro avg       0.51      0.52      0.49     72365\nweighted avg       0.90      0.79      0.84     72365\n",
+        0.5197896725233073
+    ],
+    "Class_C18": [
+        "              precision    recall  f1-score   support\n\n           0       0.97      0.87      0.92     70333\n           1       0.03      0.14      0.05      2032\n\n    accuracy                           0.85     72365\n   macro avg       0.50      0.51      0.49     72365\nweighted avg       0.95      0.85      0.90     72365\n",
+        0.5064064366297516
+    ],
+    "Class_C56": [
+        "              precision    recall  f1-score   support\n\n           0       0.99      0.97      0.98     71950\n           1       0.00      0.03      0.01       415\n\n    accuracy                           0.96     72365\n   macro avg       0.50      0.50      0.49     72365\nweighted avg       0.99      0.96      0.97     72365\n",
+        0.49657476326431504
+    ],
+    "Class_J45": [
+        "              precision    recall  f1-score   support\n\n           0       0.80      0.66      0.72     57317\n           1       0.22      0.37      0.28     15048\n\n    accuracy                           0.60     72365\n   macro avg       0.51      0.51      0.50     72365\nweighted avg       0.68      0.60      0.63     72365\n",
+        0.5149592829137362
+    ],
+    "Class_M05": [
+        "              precision    recall  f1-score   support\n\n           0       0.96      0.85      0.91     69712\n           1       0.04      0.15      0.06      2653\n\n    accuracy                           0.83     72365\n   macro avg       0.50      0.50      0.48     72365\nweighted avg       0.93      0.83      0.87     72365\n",
+        0.5009089575236733
+    ]
+}
